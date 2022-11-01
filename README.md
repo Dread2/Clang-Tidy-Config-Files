@@ -1,2 +1,2 @@
 # Clang-Tidy-Config-Files-
-Repo of all .clang-tidy files for CSUF Labs
+Repo of all .clang-tidy files for CSUF Labs.
